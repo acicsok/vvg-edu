@@ -2,4 +2,4 @@
 
 sudo apt update
 sudo apt full-upgrade -y
-echo "azurirano!"
+echo "azurirano"
